@@ -85,3 +85,61 @@ background-repeat: no-repeat;
 background-position: top;
 background-size: cover;
 }
+.fform{
+border-radius: 100px 0px 0px 0px;
+
+height: 800px;
+background-color: #6070FF;
+background-image: url('contact\ form\ shapes-mobile.png');
+background-repeat: no-repeat;
+background-position: center center;
+background-size: contain;
+}
+.form-text{
+    padding-top: 100px;
+    margin-top: 20px;
+}
+.form-heading{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+.form-para{
+    color: white;
+    padding: 0px 20px 0px 20px;
+    font-size: 20px;
+
+}
+.fname{
+    width: 90%;
+    height: 50px;
+    border: 1px solid #6070FF;
+    border-radius: 7px;
+    margin: 20px 0px 0px 0px;
+}
+.email{
+    width: 90%;
+    height: 50px;
+    border: 1px solid #6070FF;
+    border-radius: 7px;
+    margin: 12px 0px 0px 0px;
+
+}
+#comment{
+    width: 90%;
+    border: 1px solid #6070FF;
+    border-radius: 10px;
+    margin: 12px 0px 0px 0px;
+    padding-top: 10px;
+}
+.intouch{
+    background-color: white;
+    padding: 15px 30px 15px 30px;
+    border: 1px solid #6070FF;
+    border-radius: 7px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: #7F8CFF;
+}
